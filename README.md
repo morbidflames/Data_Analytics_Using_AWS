@@ -90,8 +90,7 @@ Amazon QuickSight (Dashboards & Insights)
 
 **Key Takeaway:** Glue ETL supports scalable and production-ready pipelines.
 
-<img width="1919" height="1079" alt="ETL_ss" src="https://github.com/user-attachments/assets/82e8cc43-9eb0-42d6-acd0-9134f98b4ecf" />
-
+<img width="1919" height="968" alt="ETL-SS" src="https://github.com/user-attachments/assets/e602ea7e-a9d4-4f86-8db6-5f69e79ea252" />
 
 ---
 
