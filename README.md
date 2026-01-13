@@ -120,7 +120,6 @@ Amazon QuickSight (Dashboards & Insights)
 * Data Cleaning & Transformation
 * AWS Glue & Athena Integration
 * Dashboard Development
-* IAM Roles & Permissions
 
 ---
 
