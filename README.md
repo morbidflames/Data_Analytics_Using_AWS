@@ -26,7 +26,7 @@ Amazon S3 (Storage)
      ↓
 Amazon Athena (SQL Queries)
      ↓
-AWS Glue / Glue DataBrew (Cleaning & ETL)
+AWS Glue & Glue DataBrew (Cleaning & ETL)
      ↓
 Amazon QuickSight (Dashboards & Insights)
 ```
