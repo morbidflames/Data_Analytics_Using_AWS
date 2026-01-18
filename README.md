@@ -1,6 +1,9 @@
 # Data_Analytics_Using_AWS
 End-to-end AWS data analytics pipeline using S3, Athena, Glue, and QuickSight.
 
+<img width="2582" height="1800" alt="AWS Data Analytics" src="https://github.com/user-attachments/assets/63aeb026-c4eb-4cee-8a8b-9f7a14548aba" />
+
+
 ## 📌 Project Overview
 
 This project demonstrates a complete **end-to-end data analytics pipeline built on AWS**. The objective of the project was to understand how raw data can be stored, queried, cleaned, transformed, automated, and finally visualized using AWS analytics services.
